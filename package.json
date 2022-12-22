@@ -19,6 +19,6 @@
   "homepage": "https://github.com/cchapman900/api-template#readme",
   "dependencies": {
     "mongoose": "^5.10.7",
-    "serverless-offline": "^6.8.0"
+    "serverless-offline": "^12.0.3"
   }
 }
